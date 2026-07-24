@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use IdeaGrade in a project, please cite this repository."
+title: "IdeaGrade: Explainable Structural Grading with Graph Neural Networks"
+type: software
+authors:
+  - family-names: Reddy
+    given-names: Arush
+version: 1.0.0
+date-released: 2026-07-24
+license: MIT
+repository-code: "https://github.com/Arush-Reddy/IdeaGrade-GNN"
+keywords:
+  - graph neural networks
+  - natural language processing
+  - explainable AI
+  - educational technology

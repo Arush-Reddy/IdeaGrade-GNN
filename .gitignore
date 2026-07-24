@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+.streamlit/*.log
+python-*.exe
+data/teacher_calibrations.jsonl
+data/nltk_data/corpora/wordnet/
+data/nltk_data/corpora/omw-1.4/
+data/nltk_data/corpora/omw-1.4.zip

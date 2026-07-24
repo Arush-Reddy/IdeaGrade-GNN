@@ -1,0 +1,12 @@
+.git
+.gitignore
+.venv
+venv
+__pycache__
+*.py[cod]
+python-*.exe
+.streamlit/*.log
+data/teacher_calibrations.jsonl
+data/nltk_data/corpora/wordnet
+data/nltk_data/corpora/omw-1.4
+data/nltk_data/corpora/omw-1.4.zip
